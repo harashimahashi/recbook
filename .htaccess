@@ -1,0 +1,5 @@
+﻿addDefaultCharset utf-8
+Options -Indexes
+Options +MultiViews
+ErrorDocument 404 error404.hta
+AddType application/x-httpd-php .php .php5 .phtml .html .shtml

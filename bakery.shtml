@@ -1,0 +1,22 @@
+<?php
+	require_once('\filescripts\filescript-adresation.php');
+?>
+<!DOCTYPE html>
+<html lang = 'ru'>
+<head>
+<title>
+Bakery
+</title>
+<meta charset = 'utf-8'/>
+<link rel = 'stylesheet' href = '\styles\styles-head.css'>
+<link rel = 'stylesheet' href = '\styles\styles-file.css'>
+<script src = '\scripts\script-openfile.js'></script>
+<script src = '\scripts\script-head.js'></script>
+</head>
+<body>
+<!--#include virtual='include\header.html'-->
+<?php
+	require_once('\filescripts\filescript-typ.php');
+?>
+</body>
+</html>
